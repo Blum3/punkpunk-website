@@ -77,7 +77,10 @@ nav a:hover {
 
 .title {
   font-family: TeknopolisFont;
-  font-size: xx-large;
+  font-size: 60px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  color: rgb(182, 182, 182);
 }
 
 .small-title {
@@ -131,7 +134,7 @@ nav a:hover {
 }
 
 .entry-title {
-  font-size: larger;
+  font-size: x-large;
   padding-bottom: 5px;
 }
 
