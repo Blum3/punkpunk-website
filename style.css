@@ -104,6 +104,15 @@ nav a:hover {
   width: 120px;
 }
 
+.ppl-card a {
+  color: rgb(190, 190, 190);
+  font-size: smaller;
+}
+
+.ppl-card a:hover {
+  color: white;
+}
+
 .ppl-name {
   font-family: TeknopolisFont;
 }
