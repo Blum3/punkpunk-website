@@ -39,6 +39,14 @@ nav {
   font-size: x-large;
 }
 
+footer a {
+  color: rgb(190, 190, 190);
+}
+
+footer a:hover {
+  color: white;
+}
+
 nav a:hover {
   color: white;
 }
